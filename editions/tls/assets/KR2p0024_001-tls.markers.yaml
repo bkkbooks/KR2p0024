@@ -212,6 +212,7 @@ markers:
   - {type: 'tls:seg', offset: 469, content: '', id: KR2p0024_tls_001-13a.2}
   - {type: punctuation, offset: 469, content: 「, id: KR2p0024_tls_001-bkkpn83}
   - {type: punctuation, offset: 472, content: (, id: KR2p0024_tls_001-bkkpn84}
+  - {type: voice, offset: 472, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 473, content: ), id: KR2p0024_tls_001-bkkpn85}
   - {type: punctuation, offset: 475, content: 」, id: KR2p0024_tls_001-bkkpn86}
   - {type: 'tls:seg', offset: 475, content: '', id: KR2p0024_tls_001-13a.3}
@@ -220,6 +221,7 @@ markers:
   - {type: punctuation, offset: 479, content: ，, id: KR2p0024_tls_001-bkkpn88}
   - {type: 'tls:seg', offset: 479, content: '', id: KR2p0024_tls_001-13a.5}
   - {type: punctuation, offset: 484, content: (, id: KR2p0024_tls_001-bkkpn89}
+  - {type: voice, offset: 484, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 485, content: ), id: KR2p0024_tls_001-bkkpn90}
   - {type: punctuation, offset: 489, content: 。, id: KR2p0024_tls_001-bkkpn91}
   - {type: 'tls:seg', offset: 489, content: '', id: KR2p0024_tls_001-13a.6}
@@ -232,6 +234,7 @@ markers:
   - {type: punctuation, offset: 509, content: ；, id: KR2p0024_tls_001-bkkpn95}
   - {type: 'tls:seg', offset: 509, content: '', id: KR2p0024_tls_001-13a.10}
   - {type: punctuation, offset: 511, content: (, id: KR2p0024_tls_001-bkkpn96}
+  - {type: voice, offset: 511, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 512, content: ), id: KR2p0024_tls_001-bkkpn97}
   - {type: punctuation, offset: 515, content: 。, id: KR2p0024_tls_001-bkkpn98}
   - {type: xml-element, offset: 515, content: '', id: KR2p0024_tls_001-bkkxmlele26, name: p, role: close, attrs: {source: GUODIAN CHENGZHIWENZHI 11.13. SLIPS 33-34}}
@@ -335,6 +338,7 @@ markers:
   - {type: punctuation, offset: 704, content: ，, id: KR2p0024_tls_001-bkkpn143}
   - {type: 'tls:seg', offset: 704, content: '', id: KR2p0024_tls_001-17a.8}
   - {type: punctuation, offset: 706, content: (, id: KR2p0024_tls_001-bkkpn144}
+  - {type: voice, offset: 706, length: 1, name: note, id: n4}
   - {type: punctuation, offset: 707, content: ), id: KR2p0024_tls_001-bkkpn145}
   - {type: 'tls:seg', offset: 708, content: '', id: KR2p0024_tls_001-17a.9}
   - {type: punctuation, offset: 710, content: ;, id: KR2p0024_tls_001-bkkpn146}
@@ -378,6 +382,7 @@ markers:
   - {type: punctuation, offset: 766, content: '[', id: KR2p0024_tls_001-bkkpn165}
   - {type: punctuation, offset: 767, content: (, id: KR2p0024_tls_001-bkkpn166}
   - {type: punctuation, offset: 767, content: '=', id: KR2p0024_tls_001-bkkpn167}
+  - {type: voice, offset: 767, length: 1, name: note, id: n5}
   - {type: punctuation, offset: 768, content: ), id: KR2p0024_tls_001-bkkpn168}
   - {type: punctuation, offset: 768, content: ']', id: KR2p0024_tls_001-bkkpn169}
   - {type: punctuation, offset: 769, content: ，, id: KR2p0024_tls_001-bkkpn170}
@@ -396,6 +401,7 @@ markers:
   - {type: xml-element, offset: 787, content: '', id: KR2p0024_tls_001-bkkxmlele39, name: p, role: open, attrs: {source: GUODIAN CHENGZHIWENZHI 11.20. SLIPS 27-28+22}}
   - {type: page-break, offset: 787, content: '', id: KR2p0024_tls_001-20a}
   - {type: 'tls:seg', offset: 787, content: '', id: KR2p0024_tls_001-20a.1}
+  - {type: voice, offset: 787, length: 0, name: note, id: n6}
   - {type: punctuation, offset: 795, content: ，, id: KR2p0024_tls_001-bkkpn178}
   - {type: 'tls:seg', offset: 795, content: '', id: KR2p0024_tls_001-20a.2}
   - {type: punctuation, offset: 804, content: 。, id: KR2p0024_tls_001-bkkpn179}
@@ -451,6 +457,7 @@ markers:
   - {type: 'tls:seg', offset: 889, content: '', id: KR2p0024_tls_001-22a.14}
   - {type: 'tls:seg', offset: 892, content: '', id: KR2p0024_tls_001-22a.15}
   - {type: punctuation, offset: 894, content: (, id: KR2p0024_tls_001-bkkpn199}
+  - {type: voice, offset: 894, length: 1, name: note, id: n7}
   - {type: punctuation, offset: 895, content: ), id: KR2p0024_tls_001-bkkpn200}
   - {type: punctuation, offset: 896, content: 。, id: KR2p0024_tls_001-bkkpn201}
   - {type: xml-element, offset: 896, content: '', id: KR2p0024_tls_001-bkkxmlele44, name: p, role: close, attrs: {source: GUODIAN CHENGZHIWENZHI 11.22. SLIPS 23+21}}
@@ -499,4 +506,4 @@ markers:
   - {type: punctuation, offset: 977, content: 。, id: KR2p0024_tls_001-bkkpn221}
   - {type: xml-element, offset: 977, content: '', id: KR2p0024_tls_001-bkkxmlele48, name: p, role: close, attrs: {source: GUODIAN CHENGZHIWENZHI 11.24. SLIPS 38-40}}
   back: []
-hash: sha256:271df5d351e872d79e0034e38dacdc1943636bd52c86ceedffde8b4c95d3b9e3
+hash: sha256:211965ac8a2e12c39893593f5e55e7fe0fb460be7b163c4a120e6f0a21d57f17
